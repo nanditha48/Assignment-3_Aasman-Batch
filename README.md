@@ -1,6 +1,6 @@
 # Assignment-3_Aasman-Batch
 
-# Azure Virtual Machine and Container Integration Project
+# Azure Project
 
 ## Team Members
 1. Nanditha Nambiar [1041750]
