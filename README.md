@@ -9,7 +9,7 @@
 4. Tanisha Gondke [1041938]
 
 ## Overview
-This project demonstrates the integration of an Azure Virtual Machine (VM) with Azure Container Instances (ACI) within a Virtual Network (VNet). By following this guide, you will set up a secure, scalable environment where your VM and containers can communicate directly within a private network.
+This project demonstrates the integration of an Azure Virtual Machine (VM) with Azure Container Instances (ACI) within a Virtual Network (VNet). 
 
 ## Project Components
 - **Resource Group**: A container that holds related resources for your Azure solution.
